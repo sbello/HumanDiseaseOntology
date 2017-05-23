@@ -28,5 +28,5 @@
 >8. If you would like a nanoattribution, please indicate your ORCID id or provide a label such as MGI:sbello (organization, first initial-last name)
 
 
->9. If you wish to submit multiple terms, please download the ROBOT template (https://docs.google.com/spreadsheets/d/1QFYpUjEpMTdiHtWmRPDS1ai8RZvf5b7Oa4aJhlBGz0I/edit?usp=sharing) and attach the resulting spreadhseet to the ticket.
+>9. If you wish to submit multiple terms, please download the [ROBOT template] (https://docs.google.com/spreadsheets/d/1QFYpUjEpMTdiHtWmRPDS1ai8RZvf5b7Oa4aJhlBGz0I/edit?usp=sharing) and attach the resulting spreadhseet to the ticket.
 
